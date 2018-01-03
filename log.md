@@ -12,7 +12,7 @@
 
 **Today's Progress**: Working through Free Code Camp's Bootstrap portion of the Front End Development Certification.
 
-**Thoughts**: I was happy to get through yesterday's set of information quickly, and am hoping it's not as rusty coming back into it today.
+**Thoughts**: I was happy to get through yesterday's set of information quickly, and am hoping it's not as rusty coming back into it today. Also, I'm partially feeling better about <div> and <span>, but only partially.
 
 <!-- **Link(s) to work**: [Calculator App](http://www.example.com)
 

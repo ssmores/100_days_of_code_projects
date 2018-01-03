@@ -7,4 +7,5 @@ The log of my #100DaysOfCode challenge. Started on Jan 1, Monday, 2018.
 ### R1D1 
 Started with basics to ease me back into JavaScript (esp late at night).
 
-<!-- ### R1D2 -->
+### R1D2
+Should start these earlier in the day... 

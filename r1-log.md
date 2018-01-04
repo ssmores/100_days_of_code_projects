@@ -9,3 +9,6 @@ Started with basics to ease me back into JavaScript (esp late at night).
 
 ### R1D2
 Should start these earlier in the day... But was able to get through Bootstrap exercises!
+
+### R1D3
+jQuery is still my friend. 

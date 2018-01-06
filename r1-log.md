@@ -12,3 +12,6 @@ Should start these earlier in the day... But was able to get through Bootstrap e
 
 ### R1D3
 jQuery is still my friend. 
+
+### R1D4
+There is not enough time or creative space to make a page that suits my whims. 

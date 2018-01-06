@@ -23,6 +23,11 @@
 
 **Thoughts** I remember why I like jQuery (easy to write/use), even though I am still rusty on manipulating the DOM. 
 
+
+### Day 4: Jan 5, 2018
+**Today's Progress**: Made 2ish code pen pages...
+
+**Thoughts** I started to make pages (as per FreeCodeCamp's FE cert path), but I'm not really feeling making webpages from scratch (on top of the fact that I have never really enjoyed doing that).
 <!--
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
